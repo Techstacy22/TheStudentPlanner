@@ -1,7 +1,8 @@
 .calendar-container {
   padding: 1.5rem;
-  max-width: 80rem;
+  max-width: 100%0px;
   margin: 0 auto;
+  background-color: rgb(249, 225, 237);
 }
 
 .calendar-header {
@@ -40,8 +41,8 @@
 }
 
 .calendar-nav-button {
-  padding: 0.5rem;
-  background: none;
+  padding: 1.5rem;
+  background-color: #f7a0de ;
   border: none;
   border-radius: 0.5rem;
   cursor: pointer;
