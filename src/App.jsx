@@ -14,7 +14,7 @@ export default function App() {
         <Route path='/' element={<Home />} />
         <Route path='/email' element={<Email />} />
         <Route path='/calendar' element={<Calendar />} />
-        <Route path='/tasks' element={<Task />} />
+        <Route path='/tasks' element={<Task/>} />
       </Routes>
      </Router>
        );
